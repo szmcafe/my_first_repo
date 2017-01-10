@@ -1,1 +1,1 @@
-puts "HelloRuby!"
+puts "正月明けくっそだるい"
